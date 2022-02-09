@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vondern
+- 👀 I’m interested in java, javascript
+- 🌱 I’m currently learning angular
+- 💞️ I’m looking to collaborate on angular
+- 📫 How to reach me vondern@gmail.com
